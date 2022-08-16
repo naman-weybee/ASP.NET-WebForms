@@ -1,0 +1,13 @@
+﻿body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman';
+}
+
+span {
+    color: deepskyblue;
+    font-size: 10pt;
+}
+
+.demo {
+    letter-spacing: 2mm;
+}

@@ -1,0 +1,7 @@
+﻿<asp:Button runat="server"
+    BackColor="#99FF66"
+    BorderColor="Red"
+    BorderStyle="Groove"
+    BorderWidth="3px"
+    ForeColor="#003366"
+    Text="Button" />

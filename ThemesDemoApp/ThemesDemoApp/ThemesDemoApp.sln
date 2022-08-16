@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ThemesDemoApp", "ThemesDemoApp\", "{D0A0107A-F4B4-4383-A81E-0082B6459926}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62641"
+		Debug.AspNetCompiler.PhysicalPath = "ThemesDemoApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62641\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62641"
+		Release.AspNetCompiler.PhysicalPath = "ThemesDemoApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62641\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62641"
+		SlnRelativePath = "ThemesDemoApp\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A0107A-F4B4-4383-A81E-0082B6459926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A0107A-F4B4-4383-A81E-0082B6459926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD6C774B-8A5F-4ADE-A398-33B854A93E25}
+	EndGlobalSection
+EndGlobal
