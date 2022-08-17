@@ -1,0 +1,10 @@
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\.NET\ASP.NET\Practice Coding\TestApp\TestApp\obj\Debug\TestApp.pdb
