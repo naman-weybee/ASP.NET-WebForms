@@ -11,7 +11,8 @@ namespace ControlsDemo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            TextBox tb = (TextBox) PreviousPage.FindControl("txtName");
+            //string tb = Request.Form["txtName"];
+            TextBox tb = (TextBox)PreviousPage.FindControl("txtName");
             Response.Write("Hello " + tb.Text + ", have a nice day...!");
         }
     }
